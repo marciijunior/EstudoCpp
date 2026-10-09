@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="04_Exercicio/04_Exercicio.vcxproj" Id="b9b30ea2-b063-44ac-8553-f75dec86e306" />
+  <Project Path="05_Void/05_Void.vcxproj" Id="b31616b3-f61a-4146-bb51-dd97d1f96734" />
+  <Project Path="06_FuncaoDesordenada/06_FuncaoDesordenada.vcxproj" Id="8baa9130-6610-4811-95fe-798ca33f4c47" />
+  <Project Path="07_SobreCargaDeFuncao/07_SobreCargaDeFuncao.vcxproj" Id="045a81c1-1a6a-4e01-b39b-3fa520a4ebd7" />
+  <Project Path="08_ParametroComValorPadrao/08_ParametroComValorPadrao.vcxproj" Id="f3dba059-3b01-4e6f-8d0e-46c1651a1a0e" />
+  <Project Path="09_Arrays/09_Arrays.vcxproj" Id="0b9a9fba-3c26-410f-b971-fce0a664b243" />
+  <Project Path="10_SizeOf/10_SizeOf.vcxproj" Id="96ff7f27-38ed-46b8-a9cf-1920d04bba2b" />
+  <Project Path="11_String/11_String.vcxproj" Id="39e1542a-78de-4e11-b836-2a87905d13f2" />
+  <Project Path="Exercicio01/Exercicio01.vcxproj" Id="74c326b6-d529-4cd0-ae81-b5048afbb16c" />
+  <Project Path="Exercicio02/Exercicio02.vcxproj" Id="f6068f13-9f39-45e2-aff4-740743d7dce1" />
+  <Project Path="Exercicio03/Exercicio03.vcxproj" Id="0b8dbf51-3496-4595-b2f2-fc0712e6b384" />
+</Solution>
