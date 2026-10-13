@@ -11,7 +11,10 @@
   <Project Path="09_Arrays/09_Arrays.vcxproj" Id="0b9a9fba-3c26-410f-b971-fce0a664b243" />
   <Project Path="10_SizeOf/10_SizeOf.vcxproj" Id="96ff7f27-38ed-46b8-a9cf-1920d04bba2b" />
   <Project Path="11_String/11_String.vcxproj" Id="39e1542a-78de-4e11-b836-2a87905d13f2" />
+  <Project Path="12_StringParteDois/12_StringParteDois.vcxproj" Id="479139c1-9f1b-41f9-96b4-4ebfb590e5c8" />
+  <Project Path="13_Struct/13_Struct.vcxproj" Id="aeb4daf2-331c-49cf-9d02-d86dda599403" />
   <Project Path="Exercicio01/Exercicio01.vcxproj" Id="74c326b6-d529-4cd0-ae81-b5048afbb16c" />
   <Project Path="Exercicio02/Exercicio02.vcxproj" Id="f6068f13-9f39-45e2-aff4-740743d7dce1" />
   <Project Path="Exercicio03/Exercicio03.vcxproj" Id="0b8dbf51-3496-4595-b2f2-fc0712e6b384" />
+  <Project Path="TesteDeEtapa(1-12)/TesteDeEtapa(1-12).vcxproj" Id="a5c4cbd6-5fd6-469b-95af-2f03ce4ba89b" />
 </Solution>
