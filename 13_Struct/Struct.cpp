@@ -29,7 +29,7 @@ void cadastrar(candidato p[], int numeroDeCandidatos, int numeroDeProvas) {
         for (int x = 0; x < numeroDeProvas; x++) {
             cout << "Prova numero " << x + 1 << ": ";
             cin >> p[i].nota[x];
-            while (p[i].nota[x] < 0 || p[i].nota[x] > 10) {
+            while (p[i].nota[x] < 0 || p[i].nota[x] > 10) {  
                 cout << "Nota invalida. Digite uma nota entre 0 e 10: ";
                 cin >> p[i].nota[x];
             }
