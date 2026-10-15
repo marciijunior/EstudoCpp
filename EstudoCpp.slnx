@@ -14,6 +14,12 @@
   <Project Path="12_StringParteDois/12_StringParteDois.vcxproj" Id="479139c1-9f1b-41f9-96b4-4ebfb590e5c8" />
   <Project Path="13_ExercicioDeFixacao(Struct)/13_ExercicioDeFixacao(Struct).vcxproj" Id="4a0d49d9-1a1e-42ba-a8e2-87c3a8ff0288" />
   <Project Path="13_Struct/13_Struct.vcxproj" Id="aeb4daf2-331c-49cf-9d02-d86dda599403" />
+  <Project Path="14_Ponteiro/14_Ponteiro.vcxproj" Id="8c1087f7-1fc0-4a33-95c3-9306aad4148f" />
+  <Project Path="15_StructParteDois/15_StructParteDois.vcxproj" Id="7fea5b82-c378-4ed3-b748-5769475a4ebf" />
+  <Project Path="16_ExercicioDeFixacao(Ponteiro)/16_ExercicioDeFixacao(Ponteiro).vcxproj" Id="f1b8822b-0440-4095-9520-588bc3b806c8" />
+  <Project Path="16_PonteiroParteTres/16_PonteiroParteTres.vcxproj" Id="f025cb4c-99c9-42e0-8eb7-fddc0e4043c3" />
+  <Project Path="17_New&amp;Delete/17_New&amp;Delete.vcxproj" Id="96a2d0c8-9592-4b98-a192-9a3bb26aa85c" />
+  <Project Path="18_Vector/18_Vector.vcxproj" Id="0220bcb3-15ea-4a88-9e80-44372fb68188" />
   <Project Path="Exercicio01/Exercicio01.vcxproj" Id="74c326b6-d529-4cd0-ae81-b5048afbb16c" />
   <Project Path="Exercicio02/Exercicio02.vcxproj" Id="f6068f13-9f39-45e2-aff4-740743d7dce1" />
   <Project Path="Exercicio03/Exercicio03.vcxproj" Id="0b8dbf51-3496-4595-b2f2-fc0712e6b384" />
