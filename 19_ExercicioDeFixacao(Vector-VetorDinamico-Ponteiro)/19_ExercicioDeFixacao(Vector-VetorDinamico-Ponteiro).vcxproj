@@ -24,6 +24,7 @@
     <ProjectGuid>{394abfa6-08f4-4845-9134-bee825c55fdd}</ProjectGuid>
     <RootNamespace>My19ExercicioDeFixacaoVectorVetorDinamicoPonteiro</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>18_ExercicioDeFixacao(Vector-VetorDinamico-Ponteiro)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
