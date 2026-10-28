@@ -3,6 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Itens de Solução/">
+    <File Path="exerciciosEnunciado.md" />
+  </Folder>
   <Project Path="04_Exercicio/04_Exercicio.vcxproj" Id="b9b30ea2-b063-44ac-8553-f75dec86e306" />
   <Project Path="05_Void/05_Void.vcxproj" Id="b31616b3-f61a-4146-bb51-dd97d1f96734" />
   <Project Path="06_FuncaoDesordenada/06_FuncaoDesordenada.vcxproj" Id="8baa9130-6610-4811-95fe-798ca33f4c47" />
@@ -26,6 +29,7 @@
   <Project Path="20_fstream/20_fstream.vcxproj" Id="c0ab946c-f63e-4f33-80ac-7314e47c7d17" />
   <Project Path="21_Malloc&amp;Free/21_Malloc&amp;Free.vcxproj" Id="785e18ae-ce01-4365-b45a-2fa9f3de4d8c" />
   <Project Path="22_malloc-calloc-realloc/22_malloc-calloc-realloc.vcxproj" Id="8bd715f1-3f94-4621-9b91-df92b3f85b17" />
+  <Project Path="ex2_SegundoMaiorNumero/ex2_SegundoMaiorNumero.vcxproj" Id="81bbaabd-f999-424e-b368-62e043298fed" />
   <Project Path="Exercicio01/Exercicio01.vcxproj" Id="74c326b6-d529-4cd0-ae81-b5048afbb16c" />
   <Project Path="Exercicio02/Exercicio02.vcxproj" Id="f6068f13-9f39-45e2-aff4-740743d7dce1" />
   <Project Path="Exercicio03/Exercicio03.vcxproj" Id="0b8dbf51-3496-4595-b2f2-fc0712e6b384" />
