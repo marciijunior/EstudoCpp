@@ -24,9 +24,12 @@
   <Project Path="19_Enum/19_Enum.vcxproj" Id="abd9c0c0-5f53-4471-bed7-e1238a03beb1" />
   <Project Path="19_ExercicioDeFixacao(Vector-VetorDinamico-Ponteiro)/19_ExercicioDeFixacao(Vector-VetorDinamico-Ponteiro).vcxproj" Id="394abfa6-08f4-4845-9134-bee825c55fdd" />
   <Project Path="20_fstream/20_fstream.vcxproj" Id="c0ab946c-f63e-4f33-80ac-7314e47c7d17" />
+  <Project Path="21_Malloc&amp;Free/21_Malloc&amp;Free.vcxproj" Id="785e18ae-ce01-4365-b45a-2fa9f3de4d8c" />
+  <Project Path="22_malloc-calloc-realloc/22_malloc-calloc-realloc.vcxproj" Id="8bd715f1-3f94-4621-9b91-df92b3f85b17" />
   <Project Path="Exercicio01/Exercicio01.vcxproj" Id="74c326b6-d529-4cd0-ae81-b5048afbb16c" />
   <Project Path="Exercicio02/Exercicio02.vcxproj" Id="f6068f13-9f39-45e2-aff4-740743d7dce1" />
   <Project Path="Exercicio03/Exercicio03.vcxproj" Id="0b8dbf51-3496-4595-b2f2-fc0712e6b384" />
   <Project Path="ExercicioDeFixacao(New_Delete-Vector-Enum-Union)/ExercicioDeFixacao(New_Delete-Vector-Enum-Union).vcxproj" Id="bb1ed576-144c-4c8a-9ac2-4d20fd3b1e3d" />
+  <Project Path="exMaiorMenorNumero/exMaiorMenorNumero.vcxproj" Id="64cdd818-94b3-494a-8393-ffba19a487d6" />
   <Project Path="TesteDeEtapa(1-12)/TesteDeEtapa(1-12).vcxproj" Id="a5c4cbd6-5fd6-469b-95af-2f03ce4ba89b" />
 </Solution>
