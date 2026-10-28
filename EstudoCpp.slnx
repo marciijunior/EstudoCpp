@@ -23,6 +23,7 @@
   <Project Path="18_Vector/18_Vector.vcxproj" Id="0220bcb3-15ea-4a88-9e80-44372fb68188" />
   <Project Path="19_Enum/19_Enum.vcxproj" Id="abd9c0c0-5f53-4471-bed7-e1238a03beb1" />
   <Project Path="19_ExercicioDeFixacao(Vector-VetorDinamico-Ponteiro)/19_ExercicioDeFixacao(Vector-VetorDinamico-Ponteiro).vcxproj" Id="394abfa6-08f4-4845-9134-bee825c55fdd" />
+  <Project Path="20_fstream/20_fstream.vcxproj" Id="c0ab946c-f63e-4f33-80ac-7314e47c7d17" />
   <Project Path="Exercicio01/Exercicio01.vcxproj" Id="74c326b6-d529-4cd0-ae81-b5048afbb16c" />
   <Project Path="Exercicio02/Exercicio02.vcxproj" Id="f6068f13-9f39-45e2-aff4-740743d7dce1" />
   <Project Path="Exercicio03/Exercicio03.vcxproj" Id="0b8dbf51-3496-4595-b2f2-fc0712e6b384" />
